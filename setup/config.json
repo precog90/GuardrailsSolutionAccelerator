@@ -1,10 +1,10 @@
 {
-  "keyVaultName": "kvcac",
+  "keyVaultName": "kv-cac",
   "resourceGroup": "rg-guardrails",
   "region": "CanadaCentral",
   "storageAccountName": "stcac",
   "logAnalyticsworkspaceName": "log-cac",
-  "automationAccountName": "aacac",
+  "automationAccountName": "aa-cac",
   "firstBreakGlassAccountUPN": "user1@domain.com",
   "secondBreakGlassAccountUPN": "user2@domain.com",
   "SSCReadOnlyServicePrincipalNameAPPID": "00000000-0000-0000-0000-000000000000",
